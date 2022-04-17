@@ -1,0 +1,3 @@
+ - Hello, I am bluescreened.
+ - I'm relatively new to coding and make Python and PyGame games.
+ - I'm 13 and am excited to start sharing future projects I make.
